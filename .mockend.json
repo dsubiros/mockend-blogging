@@ -9,5 +9,9 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "Send": {
+    "resultado" : "boolean",
+    "msg" : "Error al enviar email"
   }
 }
