@@ -12,6 +12,6 @@
   },
   "Send": {
     "resultado" : "boolean",
-    "msg" : "Error al enviar email"
+    "msg" : "string"
   }
 }
